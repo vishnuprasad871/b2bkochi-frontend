@@ -1,0 +1,98 @@
+[
+    {
+        "id": "v1",
+        "name": "Spice Paradise",
+        "type": "wholesale",
+        "city": "Kochi",
+        "category": "Food & Beverages",
+        "description": "Premium wholesale supplier of authentic Kerala spices and food products. Serving businesses across India for over 20 years.",
+        "email": "contact@spiceparadise.com",
+        "phone": "+91 98765 43210",
+        "address": "MG Road, Kochi, Kerala 682016",
+        "image": "/spiceparadise.webp"
+    },
+    {
+        "id": "v2",
+        "name": "Kerala Ayurveda Store",
+        "type": "retail",
+        "city": "Kochi",
+        "category": "Health & Wellness",
+        "description": "Authentic Ayurvedic products and traditional wellness solutions. Trusted by thousands of customers for genuine ayurvedic remedies.",
+        "email": "info@keralaayurveda.com",
+        "phone": "+91 98765 43211",
+        "address": "Broadway, Kochi, Kerala 682031",
+        "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&auto=format&fit=crop"
+    },
+    {
+        "id": "v3",
+        "name": "Marine Equipment Co.",
+        "type": "wholesale",
+        "city": "Kochi",
+        "category": "Marine & Shipping",
+        "description": "Leading supplier of marine equipment and shipping supplies. Complete solutions for shipping industry.",
+        "email": "sales@marineequip.com",
+        "phone": "+91 98765 43212",
+        "address": "Willingdon Island, Kochi, Kerala 682009",
+        "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=800&auto=format&fit=crop"
+    },
+    {
+        "id": "v4",
+        "name": "Fashion Hub",
+        "type": "retail",
+        "city": "Ernakulam",
+        "category": "Fashion & Apparel",
+        "description": "Trendy fashion boutique offering the latest in ethnic and western wear. Your one-stop destination for fashion.",
+        "email": "hello@fashionhub.com",
+        "phone": "+91 98765 43213",
+        "address": "Panampilly Nagar, Ernakulam, Kerala 682036",
+        "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800&auto=format&fit=crop"
+    },
+    {
+        "id": "v5",
+        "name": "Tech Solutions Wholesale",
+        "type": "wholesale",
+        "city": "Ernakulam",
+        "category": "Electronics",
+        "description": "Bulk supplier of electronics and IT equipment. Competitive prices for retailers and businesses.",
+        "email": "contact@techsolutions.com",
+        "phone": "+91 98765 43214",
+        "address": "Kakkanad, Ernakulam, Kerala 682030",
+        "image": "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?w=800&auto=format&fit=crop"
+    },
+    {
+        "id": "v6",
+        "name": "Home Decor Gallery",
+        "type": "retail",
+        "city": "Thrissur",
+        "category": "Home & Living",
+        "description": "Exquisite collection of home decor items and furniture. Transform your space with our curated selection.",
+        "email": "info@homedecorgallery.com",
+        "phone": "+91 98765 43215",
+        "address": "Round South, Thrissur, Kerala 680001",
+        "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&auto=format&fit=crop"
+    },
+    {
+        "id": "v7",
+        "name": "Organic Farm Supplies",
+        "type": "wholesale",
+        "city": "Thrissur",
+        "category": "Agriculture",
+        "description": "Wholesale supplier of organic farming products and equipment. Supporting sustainable agriculture.",
+        "email": "sales@organicfarm.com",
+        "phone": "+91 98765 43216",
+        "address": "Chavakkad, Thrissur, Kerala 680506",
+        "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&auto=format&fit=crop"
+    },
+    {
+        "id": "v8",
+        "name": "Book Haven",
+        "type": "retail",
+        "city": "Kozhikode",
+        "category": "Books & Stationery",
+        "description": "Your literary paradise with extensive collection of books and stationery. Reading is our passion.",
+        "email": "contact@bookhaven.com",
+        "phone": "+91 98765 43217",
+        "address": "SM Street, Kozhikode, Kerala 673001",
+        "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800&auto=format&fit=crop"
+    }
+]

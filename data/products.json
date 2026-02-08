@@ -1,0 +1,162 @@
+[
+    {
+        "id": "p1",
+        "vendorId": "v1",
+        "name": "Premium Black Pepper",
+        "category": "Spices",
+        "price": 850,
+        "description": "Finest quality Kerala black pepper, perfect for adding authentic flavor to your dishes.",
+        "image": "https://images.unsplash.com/photo-1599909533948-1ff5cd2c4ba7?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p2",
+        "vendorId": "v1",
+        "name": "Cardamom (Large)",
+        "category": "Spices",
+        "price": 1200,
+        "description": "Aromatic large cardamom pods sourced from Kerala hills.",
+        "image": "https://images.unsplash.com/photo-1596040033229-a0b1e3a30d53?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p3",
+        "vendorId": "v1",
+        "name": "Turmeric Powder",
+        "category": "Spices",
+        "price": 450,
+        "description": "Pure and organic turmeric powder with intense color and aroma.",
+        "image": "https://images.unsplash.com/photo-1615485500834-bc10199bc255?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p4",
+        "vendorId": "v1",
+        "name": "Cinnamon Sticks",
+        "category": "Spices",
+        "price": 650,
+        "description": "Premium Ceylon cinnamon sticks for authentic flavor.",
+        "image": "https://images.unsplash.com/photo-1606402179428-a57976e8a776?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p5",
+        "vendorId": "v1",
+        "name": "Clove Buds",
+        "category": "Spices",
+        "price": 950,
+        "description": "Hand-picked clove buds with strong aromatic properties.",
+        "image": "https://images.unsplash.com/photo-1629023322704-811a5fce69b9?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p6",
+        "vendorId": "v1",
+        "name": "Red Chilli Powder",
+        "category": "Spices",
+        "price": 380,
+        "description": "Fiery red chilli powder for spicy preparations.",
+        "image": "https://images.unsplash.com/photo-1583638412898-ae5478f4aba2?w=600&auto=format&fit=crop",
+        "inStock": false
+    },
+    {
+        "id": "p7",
+        "vendorId": "v2",
+        "name": "Ayurvedic Hair Oil",
+        "category": "Personal Care",
+        "price": 350,
+        "description": "Natural hair oil infused with 15 herbs for healthy hair growth.",
+        "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p8",
+        "vendorId": "v2",
+        "name": "Triphala Churna",
+        "category": "Supplements",
+        "price": 280,
+        "description": "Traditional Ayurvedic supplement for digestive health.",
+        "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p9",
+        "vendorId": "v2",
+        "name": "Ashwagandha Capsules",
+        "category": "Supplements",
+        "price": 550,
+        "description": "Pure Ashwagandha extract for stress relief and vitality.",
+        "image": "https://images.unsplash.com/photo-1550572017-4ac1c4e5e033?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p10",
+        "vendorId": "v2",
+        "name": "Neem Face Wash",
+        "category": "Personal Care",
+        "price": 220,
+        "description": "Gentle neem-based face wash for clear and healthy skin.",
+        "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p11",
+        "vendorId": "v3",
+        "name": "Marine Safety Kit",
+        "category": "Safety Equipment",
+        "price": 15000,
+        "description": "Complete marine safety kit with life jackets and rescue equipment.",
+        "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p12",
+        "vendorId": "v3",
+        "name": "Navigation Lights",
+        "category": "Marine Electronics",
+        "price": 8500,
+        "description": "LED navigation lights for maritime vessels.",
+        "image": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p13",
+        "vendorId": "v4",
+        "name": "Designer Saree",
+        "category": "Ethnic Wear",
+        "price": 4500,
+        "description": "Elegant designer saree with intricate embroidery work.",
+        "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p14",
+        "vendorId": "v4",
+        "name": "Cotton Kurta Set",
+        "category": "Ethnic Wear",
+        "price": 1800,
+        "description": "Comfortable cotton kurta with matching palazzo pants.",
+        "image": "https://images.unsplash.com/photo-1583391733981-12b2e0907a88?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p15",
+        "vendorId": "v5",
+        "name": "Business Laptop",
+        "category": "Computers",
+        "price": 55000,
+        "description": "High-performance laptop for business and professional use.",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop",
+        "inStock": true
+    },
+    {
+        "id": "p16",
+        "vendorId": "v5",
+        "name": "Wireless Mouse",
+        "category": "Accessories",
+        "price": 850,
+        "description": "Ergonomic wireless mouse with precision tracking.",
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=600&auto=format&fit=crop",
+        "inStock": true
+    }
+]
