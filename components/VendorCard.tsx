@@ -11,6 +11,7 @@ export default function VendorCard({ vendor }: VendorCardProps) {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden card-hover cursor-pointer h-full">
                 {/* Image Section with Gradient Overlay */}
                 <div className="relative h-56 overflow-hidden">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
                         src={vendor.image}
                         alt={vendor.name}
@@ -19,8 +20,8 @@ export default function VendorCard({ vendor }: VendorCardProps) {
                     <div className="absolute top-4 right-4">
                         <span
                             className={`px-4 py-2 rounded-full text-sm font-semibold shadow-lg ${vendor.type === 'wholesale'
-                                    ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white'
-                                    : 'bg-gradient-to-r from-secondary-500 to-secondary-600 text-white'
+                                ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white'
+                                : 'bg-gradient-to-r from-secondary-500 to-secondary-600 text-white'
                                 }`}
                         >
                             {vendor.type === 'wholesale' ? 'Wholesale' : 'Retail'}

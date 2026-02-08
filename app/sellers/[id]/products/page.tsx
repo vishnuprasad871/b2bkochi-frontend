@@ -135,7 +135,7 @@ export default function ProductsPage({ params }: ProductsPageProps) {
                         <div className="text-6xl mb-4">📦</div>
                         <h3 className="text-2xl font-bold text-slate-900 mb-2">No Products Yet</h3>
                         <p className="text-slate-600 mb-6">
-                            This vendor hasn't added any products to their catalog yet.
+                            This vendor hasn&apos;t added any products to their catalog yet.
                         </p>
                         <Link href={`/sellers/${vendor.id}`} className="btn-primary inline-block">
                             ← Back to Vendor Page

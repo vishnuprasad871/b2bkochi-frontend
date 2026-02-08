@@ -9,6 +9,7 @@ export default function ProductCard({ product }: ProductCardProps) {
         <div className="bg-white rounded-xl shadow-lg overflow-hidden card-hover h-full">
             {/* Image Section */}
             <div className="relative h-48 overflow-hidden bg-slate-100">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                     src={product.image}
                     alt={product.name}
