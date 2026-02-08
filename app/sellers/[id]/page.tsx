@@ -56,6 +56,7 @@ export default function SellerPage({ params }: SellerPageProps) {
                         <div className="flex flex-col md:flex-row gap-8 items-start">
                             {/* Vendor Image */}
                             <div className="w-full md:w-1/3">
+                                {/* eslint-disable-next-line @next/next/no-img-element */}
                                 <img
                                     src={vendor.image}
                                     alt={vendor.name}
@@ -68,8 +69,8 @@ export default function SellerPage({ params }: SellerPageProps) {
                                 <div className="mb-4">
                                     <span
                                         className={`px-4 py-2 rounded-full text-sm font-semibold ${vendor.type === 'wholesale'
-                                                ? 'bg-white/20 text-white'
-                                                : 'bg-white/20 text-white'
+                                            ? 'bg-white/20 text-white'
+                                            : 'bg-white/20 text-white'
                                             }`}
                                     >
                                         {vendor.type === 'wholesale' ? 'Wholesale Supplier' : 'Retail Store'}

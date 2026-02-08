@@ -117,10 +117,10 @@ export default function HomePage() {
                             About B2B Kochi
                         </h2>
                         <p className="text-lg text-slate-700 leading-relaxed mb-8">
-                            B2B Kochi is Kerala's premier marketplace for connecting businesses with verified
+                            B2B Kochi is Kerala&apos;s premier marketplace for connecting businesses with verified
                             wholesale and retail vendors. We make it easy to discover quality suppliers, compare
-                            products, and build lasting business relationships. Whether you're looking for bulk
-                            supplies or retail partnerships, we've got you covered.
+                            products, and build lasting business relationships. Whether you&apos;re looking for bulk
+                            supplies or retail partnerships, we&apos;ve got you covered.
                         </p>
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                             <div className="bg-white p-6 rounded-xl shadow-md">
